@@ -7,7 +7,7 @@
     "url": "https://x.com/uiuxmat"
   },
   "scripts": {
-    "dev": "npm run dev",
+    "dev": "next dev",
     "build": "npm run build",
     "start": "npm run start",
     "lint": "next lint"
